@@ -1,4 +1,4 @@
-package main.java;
+package recursion;
 
 public class binarySearch {
     public static void main(String[] args) {
